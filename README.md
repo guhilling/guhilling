@@ -1,5 +1,3 @@
-<img src="gunnar.jpg" alt="Gunnar Hilling" width="180" align="right">
-
 ### Hi, I'm Gunnar 👋
 
 Physicist by training, programmer by habit. I've been teaching Linux since the late 90s and building
